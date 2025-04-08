@@ -26,9 +26,9 @@ GitHub:https://github.com/abdu4751/My-First-Project.git
 Email:abdullahsadiq.pk@gmail.com
 
 ![Alt Text](https://github.com/abdu4751/My-First-Project/blob/ffd243cd2c8dfc372f8e62df5449bc46040cbdcd/Electrochip%20Screenshot1.PNG )
-![Alt Text]( )
-![Alt Text]( )
-![Alt Text]( )
-![Alt Text]( )
-![Alt Text]( )
-![Alt Text]( )
+![Alt Text](https://github.com/abdu4751/My-First-Project/blob/7ddcaacd7f5ca01f8e7d3d00fd7acc9eb36435d7/Electrochip%20Screenshot2.PNG )
+![Alt Text]( https://github.com/abdu4751/My-First-Project/blob/7ddcaacd7f5ca01f8e7d3d00fd7acc9eb36435d7/Electrochip%20Screenshot3.PNG)
+![Alt Text](https://github.com/abdu4751/My-First-Project/blob/7ddcaacd7f5ca01f8e7d3d00fd7acc9eb36435d7/Electrochip%20Screenshot4.PNG )
+![Alt Text]( https://github.com/abdu4751/My-First-Project/blob/7ddcaacd7f5ca01f8e7d3d00fd7acc9eb36435d7/Electrochip%20Screenshot5.PNG)
+![Alt Text](https://github.com/abdu4751/My-First-Project/blob/7ddcaacd7f5ca01f8e7d3d00fd7acc9eb36435d7/Electrochip%20Screenshot6.PNG )
+![Alt Text]( https://github.com/abdu4751/My-First-Project/blob/7ddcaacd7f5ca01f8e7d3d00fd7acc9eb36435d7/Electrochip%20Screenshot7.PNG)
