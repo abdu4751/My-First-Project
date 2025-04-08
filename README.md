@@ -24,3 +24,11 @@ Contact 📧
 GitHub:https://github.com/abdu4751/My-First-Project.git
 
 Email:abdullahsadiq.pk@gmail.com
+
+![Alt Text](https://github.com/abdu4751/My-First-Project/blob/ffd243cd2c8dfc372f8e62df5449bc46040cbdcd/Electrochip%20Screenshot1.PNG )
+![Alt Text]( )
+![Alt Text]( )
+![Alt Text]( )
+![Alt Text]( )
+![Alt Text]( )
+![Alt Text]( )
