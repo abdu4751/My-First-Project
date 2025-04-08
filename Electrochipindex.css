@@ -1,0 +1,569 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif
+}
+header{
+    width: 100%;
+    height: 72.5px;
+    background-color: #EAE6F5;
+}
+.nav-bar{
+    width: 1170px;
+    height: 72.5px;
+    background-color: #EAE6F5;
+ 
+    padding: 8px 16px 8px 8px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo-image-text{
+    width: 167.19px;
+    height: 45px;
+    
+}
+.nav-links{
+    width: 611.56px;
+    height: 56.4px;
+    
+    
+    
+}
+.nav-links ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: inherit;
+
+}
+.nav-links ul li a {
+    color: black;
+    font-size: 15px;
+    text-transform: uppercase;
+    background-color: transparent;
+    border-radius: 35px;
+    padding: 7px 20px;
+    transition: all 0.1s ease;
+}
+.nav-links ul li a:hover {
+    background-color: #4B208C;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+}
+   
+.nav-links ul li{ 
+    list-style: none;
+}
+.logo-image-container{
+    width: 35px;
+    height: 35px;
+   
+    background: url(First-project-images/logo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.logo-image-text {
+    display: flex;
+  gap: 5px;
+  justify-content: space-around;
+    align-items: center;
+  
+}
+.first-spn{
+    font-size: 22px;
+    font-weight: 700;
+    color: #4b208c;
+}
+.first-section{
+    width: 100%;
+    height: 540px;
+    background-color: #EAE6F5;
+    
+}
+.outer-container{
+    width: 1170px;
+    height: 450px;
+    padding: 0px 15px;
+    margin: 0 auto;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+.main-heading-container {
+    width: 585px;
+    height: 331px;
+    padding: 0px 15px;
+    
+    
+}
+.around-image-container{
+    width: 487px;
+    height: 450px;
+    padding: 0px 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.main-h1 {
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    line-height: 1.2;
+    color: #000000;
+}
+.first-pra {
+    margin-top: 15x;
+    font-size: 1rem;
+    margin-bottom: 1.6rem;
+}
+.fist-btn{
+    padding: 10px 40px;
+    background-color: #4B208C;
+    border: none;
+    color: white;
+    border-radius: 35px;
+    font-size: 17px;
+}
+.inner-image-container{
+    width: 443px;
+    height: 436px;
+    border-radius: 50%;
+    border: 7px solid #7B57B2;
+    background: url(First-project-images/electrician\ man\ image.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.second-section{
+    width: 100%;
+    height: 1107px;
+ 
+    padding: 90px 0px;
+}
+.services-container {
+    width: 1170px;
+    height: 927px;
+    margin: 0 auto;
+ 
+    
+}
+.btn-container{
+    width: 1170px;
+    height: 68px;
+ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.second-btn{
+    padding: 10px 35px;
+    border-radius: 35px;
+    background-color: #4b208c;
+    border: none;
+    color: white;
+    font-size: 17px;
+}
+.heading-container-with-image{
+    width: 1170px;
+    height: 46.39px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+  
+}
+.services-h2{
+    font-size: 2rem;
+    text-transform: capitalize;
+}
+.plug-image{
+    width: 30px;
+    height: 30px;
+}
+.services-card-container{
+    width: 1140px;
+    height: 812px;
+    padding: 35px 0;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+   
+    align-items: center;
+    
+}
+.box-container{
+    width: 353px;
+    height: 321px;
+    padding: 35px 25px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    border-radius: 15px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15);
+    
+}
+.image-box{
+    width: 303px;
+    height: 125px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.detalis-box{
+    width: 303px;
+    height: 80px;
+    margin-top: 25px;
+  
+}
+.service-h5 { 
+    font-size: 1.25rem;
+    text-align: center;
+}
+.services-pra{
+    font-size: 16px;
+    text-align: center;
+}
+.third-section{
+    width: 100%;
+    height: 792.2px;
+    padding: 90px 0px;
+    background-color: #F3F0F6;
+}
+.about-container{
+    width: 1170px;
+    height: 612px;
+ 
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.about-us-content-heading-container{
+    width: 585px;
+    height: 345px;
+    padding: 0px 15px;
+   
+    
+   
+}
+.two-around-images-containers{
+    width:585px;
+    height: 612px;
+    padding: 0px 15px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.plug-image-about-us{
+    width:471px;
+    height: 46.39px;
+   
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 5px;
+    
+}
+.about-us-pra{
+    margin: 25px 0 16px 0px;
+    font-size: 16px;
+}  
+.third-btn{
+    padding: 10px 35px;
+    border-radius: 35px;
+    background-color: #4b208c;
+    border: none;
+    color: white;
+    font-size: 17px;
+    margin: 25px 0 45px 0;
+}
+.about-h2{
+    font-size: 2rem;
+}
+.first-around-box{
+    width: 388.5px;
+    height: 391.48px;
+    border-radius: 50%;
+    padding: 5px;
+    background-color: red;
+    background: url(First-project-images/about-img1.jpg);
+    background-size: contain;
+    border: 7px solid #7B57B2;
+}
+.second-around-box{
+    width: 277.5px;
+    height:287.31px;
+    border-radius: 50%;
+    background-color: turquoise;
+    margin-left: 277px;
+    padding: 5px;
+    margin-top:-66px ;
+    border: 7px solid #7B57B2;
+    background: url(First-project-images/about-img2.jpg);
+
+
+}
+.third-blog-section{
+    width: 100%;
+    height: 835.59px;
+    padding:90px 0px;
+ 
+}
+.blog-card-container{
+    width: 1170px;
+    height:655px ;
+    margin: 0 auto;
+  
+}
+.blog-heading-container{
+    width: 1140px;
+    height: 46.39px;
+  
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    
+}
+.blog-h2{
+    font-size: 2rem;
+}
+.blog-content-contaniner{
+    width: 1170px;
+    height: 609px;
+   
+    display: flex;
+    
+}
+.first-blog-card-container{
+    width:585px ;
+    height: 609px;
+    padding: 0 15px;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.second-blog-card-container{
+    width:585px ;
+    height: 609px;
+    padding: 0 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  
+ 
+}
+.blog-image-box{
+    width: 555px;
+    height: 392.27px;
+    background: url(First-project-images/blog1.jpg);
+    background-size:contain;
+    background-repeat:no-repeat ;
+
+}
+#second-box-image{ 
+    background: url(First-project-images/blog2.jpg);
+    background-size: contain;
+}
+.blog-details-box{
+    width: 555px;
+    height: 160px;
+    background-color: ghostwhite;
+    padding: 25px 25px 15px 25px;
+}
+.blog-title-h5{
+    font-size: 1.25rem;
+    margin-bottom: 8px;
+    
+}
+.forth-contact-section{
+    width: 100%;
+    height: 724px;
+    padding: 90px 0px;
+    
+}
+.contact-heading-container{
+    width: 1140px;
+    height: 46.39px;
+ 
+    margin: 0 auto;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 5px;
+    
+}
+.form-intput-container{
+    width: 1170px;
+    height: 498px;
+    
+    margin: 0 auto;
+    display: flex; 
+    justify-content: space-between;
+}
+.input-container{
+width: 555px;
+height: 498px;
+padding: 0px 15px;
+
+
+}
+.google-map-container{
+    width: 555px;
+height: 498px;
+padding: 0px 15px;
+
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.first-form {
+    width: 555px;
+    height: 453px;
+   
+    margin-top: 45px;
+    padding-right: 35px;
+}
+.message-input{
+    width: 520px;
+    height: 145px;
+}
+
+input{
+    width: 520px;
+    height: 50px;
+    padding: 1px 2px 1px 25px;
+    margin-bottom: 25px;
+    border: none;
+    outline: none;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.16);
+   
+}
+.ifram-container{
+    width: 500px;
+    height: 450px;
+   
+}
+.five-btn{
+    padding: 12px 45px;
+    margin-top: 5px;
+    background-color: #5625A1;
+    border: none;
+    color: white;
+    text-transform: uppercase;
+    font-size: 17px;
+}
+.contact-h2{
+   font-size: 2rem;
+}
+.footer-section{
+    width: 100%;
+    height: 404px;
+    padding: 90px 0;
+    background-color: #190734;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.inner-container {
+    width: 1170px;
+    height: 164.5px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    align-content: center;
+    
+    
+}
+.footer-details-container{
+    width: 1140px;
+    height: 32px;
+  
+    margin: 0 auto;
+    display: flex;
+}
+.footer-input{
+    width: 1170px;
+    height: 87.5px;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+   
+}
+.icon-contaniner{
+    width: 390px;
+    height: 32px;
+    
+    padding: 0px 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    color: white;
+}
+i{
+    font-size: 30px;
+}
+
+.second-form{
+    width: 877px;
+    height: 42px;
+    background-color: tan;
+    display: flex;
+}
+.social-icon-container{
+    width: 262.5px;
+    height: 35px;
+  
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+}
+.fo-input{
+    width: 567px;
+    height: 42px;
+    margin: 0;
+   
+}
+.six-btn{
+   width: 310px;
+   height: 42px;
+   padding: 10px 30px;
+   border: none;
+   background-color: #4B208C;
+   color: white;
+   font-size: 17px;
+   text-transform: uppercase;
+}
+.soical-media-icon-container{
+    width: 43px;
+    height: 35px;
+    background-color: white;
+    border-radius: 50%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fa-brands{
+font-size: 20px;
+color: #190734;
+}
